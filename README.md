@@ -1,2 +1,3 @@
 # CS1026Projects
-The Python projects that I made for CS1026 
+# These are the projects I worked on during CS1026
+Assignment 1: Inflation Rate Calculator
