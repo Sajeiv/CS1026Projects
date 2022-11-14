@@ -1,3 +1,2 @@
-# CS1026Projects
-# These are the projects I worked on during CS1026
+# CS1026Projects by Sajeiv
 Assignment 1: Inflation Rate Calculator
